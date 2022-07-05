@@ -1,0 +1,90 @@
+.header {
+    background-color: burlywood;
+    padding: 10px;
+    overflow: hidden;
+
+}
+
+.logosearch {
+    box-sizing: border-box;
+}
+
+.logo {
+    float: left
+}
+
+.search {
+    float: right;
+}
+
+.nav {
+    background-color: pink;
+    padding: 20px;
+}
+
+main {
+    background-color: brown;
+    padding: 20px;
+    overflow: hidden;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    border: 2px solid black;
+    box-sizing: border-box;
+    background-color: burlywood;
+}
+
+.top {
+    width: 75%;
+    overflow: hidden;
+}
+
+.bottom {
+    width: 50%;
+    overflow: hidden;
+}
+
+.left {
+    width: 33.33%;
+    overflow: hidden;
+}
+
+.down {
+    width: 50%;
+}
+
+.column1 .column {
+    width: 50%;
+}
+
+.column2 .column {
+    width: 30%;
+}
+
+.column3 .column {
+    width: 50%;
+}
+
+.left-nav:hover {
+    background-color: brown;
+}
+
+.footer {
+    background-color: burlywood;
+    padding: 20px;
+}
+
+@media screen(min width: 300px) {
+    
+    
+}
+
+
+
+
+
+
+
+

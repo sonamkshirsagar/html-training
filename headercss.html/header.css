@@ -1,0 +1,27 @@
+.header {
+    background-color: whitesmoke;
+    
+    padding: 0px;
+    
+    overflow:hidden;
+    margin: 0px;
+}
+.header-img{float: left;
+
+}
+.header-imgg{
+float: right;
+}
+
+.nav {
+    background-color: white;
+    padding: 0px;
+    margin: 0px;
+}
+
+.main {
+    background-color: #da7029;
+    overflow: hidden;
+    padding: 0px;
+    margin: 0px;
+}

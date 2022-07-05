@@ -1,0 +1,16 @@
+header {
+    background-color: red;
+    color: black;
+}
+nav {
+    background-color: yellowgreen;
+    color:black;
+}
+main {background-color: bisque;
+    color:black;
+
+}
+footer {
+    background-color: aqua;
+    color:black;
+}
