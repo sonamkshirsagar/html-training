@@ -1,0 +1,675 @@
+.body {
+
+    font-family: monospace;
+    font-size: 15px;
+    font-weight: 700;
+    font-family: EduSABeginner-Bold;
+    src: url(../fonts/EduSABeginner-VariableFont_wght.ttf)
+}
+.first{
+    background-color: rgb(233, 229, 229);
+    
+}
+.second{
+    background-color: white;
+}
+
+.header {
+    overflow: hidden;
+    box-sizing: border-box;
+    background-color: white;
+    
+}
+
+.header-inner {
+    max-width: 1260px;
+
+
+}
+
+.top-header {
+    padding: 10px;
+    overflow: hidden;
+    max-width: 1260px;
+    
+}
+
+.logo {
+    width: 160px;
+    margin-top: 5px;
+
+}
+
+.earth {
+    vertical-align: middle;
+    text-align: left;
+}
+
+.right-top-item {
+    display: inline-block;
+    padding: 0 14px;
+    padding-bottom: 0;
+
+}
+
+.navitem {
+    display: inline-block;
+    overflow: hidden;
+    padding: 0 10px;
+
+}
+
+.navlist {
+    margin: 0;
+    margin-right: 0;
+    margin-top: 10px;
+}
+
+.right-top-list {
+
+    margin: 0;
+    padding-right: 23px;
+}
+
+
+
+
+.left-text {
+    float: left;
+    box-sizing: border-box;
+}
+
+
+
+.header-inner {
+    max-width: 1240px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    padding: 8px 0px;
+}
+
+.right-text {
+
+
+    float: right;
+    box-sizing: border-box;
+}
+
+
+
+.bottom-header {
+    display: flex;
+    margin: 0 auto;
+    max-width: 1240px;
+}
+
+.nav {
+    background-color: rgb(236, 83, 28);
+    padding: 20px;
+    color: white;
+}
+
+.cross {
+    float: right;
+    color: white;
+
+}
+
+.right-top-list {
+    display: flex;
+    float: right;
+}
+
+.footer-in {
+    background-color: #00095B;
+    width: 100%;
+    overflow: hidden;
+}
+
+.column2,
+.column3 {
+    margin-top: 60px;
+}
+
+.last {
+    overflow: hidden;
+    margin-bottom: -10px;
+    padding: 0px;
+}
+
+.last-block {
+    float: left;
+    padding-right: 50px;
+}
+
+.main-footer-content {
+    background-color: #F2F2F2;
+    width: 100%;
+    overflow: hidden;
+}
+
+
+.column {
+    overflow: hidden;
+    background-color: #F2F2F2;
+    width: 25%;
+    float: left;
+    color: #00095B;
+    padding: 25px 0;
+}
+
+.upper {
+    max-width: 1240px;
+    margin: 0 auto;
+}
+
+.lower {
+    max-width: 1240px;
+    margin: 0 auto;
+    padding-bottom: 15px;
+    overflow: hidden;
+    color: white;
+}
+
+.close {
+    width: 30px;
+    float: right;
+    margin-bottom: 16px;
+
+}
+
+ul {
+    list-style-type: none;
+    padding: 0px;
+}
+
+li {
+    margin-bottom: 12px;
+}
+
+.icon {
+    float: left;
+    width: 25px;
+    margin-left: 20px;
+}
+
+.social-links {
+    margin: 20px 0px;
+}
+
+.link {
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+.main {
+    width: 1240px;
+    margin: 0 auto;
+}
+
+.main-left {
+    width: 75%;
+    color: #00095b;
+    background-color: white;
+
+    padding-top: 45px;
+}
+
+.main-right {
+    width: 25%;
+    background-color: #F2F2F2;
+    padding-top: 45px;
+}
+
+.main-content {
+    display: flex;
+    padding: 0 10px;
+}
+
+.mywid {
+    font-size: larger;
+}
+
+.right-lists {
+    border-bottom: 1px solid gray;
+    color: #00095B;
+    width: 86%;
+    margin: 0 auto;
+    padding: 16px 12px;
+}
+
+.right-lists p {
+    color: gray;
+}
+
+.down {
+    float: right;
+    width: 25px;
+}
+
+.rdown {
+    background-color: #00095b;
+    color: white;
+    width: 80%;
+    padding: 10px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.coust {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.left-nav {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 30px;
+}
+
+.leftrow {
+    display: flex;
+    margin: 0 10px;
+    padding-bottom: 45px;
+}
+
+.column30 {
+    width: 30%;
+}
+
+.column70 {
+    width: 70%;
+
+    box-shadow: 3px 14px 18px -6px darkgrey;
+    padding: 10px;
+}
+
+.column70 p,
+h1 {
+    margin: 0;
+}
+
+.like {
+    padding-top: 6px;
+    display: flex;
+    margin-right: 50px;
+    margin-left: 0px;
+}
+
+.ano {
+    display: flex;
+}
+
+.width50 {
+    width: 50%;
+    background-color: #00095B;
+    color: white;
+    margin-right: 15px;
+}
+.cross-color{
+    color: white;
+}
+.ano1 {
+    display: flex;
+    justify-content: center;
+    padding: 20px 0px;
+    color: gray;
+    font-size: larger;
+}
+
+.width33 {
+    padding: 5px;
+}
+
+.right-lists li img {
+    width: 23px;
+}
+
+.news {
+    display: flex;
+    justify-content: space-between;
+    padding: 12px 13px 0px 6px;
+}
+
+.movement {
+    background-image: url(mainphotos/fordcar.png);
+    display: flex;
+    width: 100%;
+    color: white;
+    margin: 30px 0px;
+}
+
+.m50 {
+    width: 100%;
+    background: none;
+    margin: 21px;
+}
+
+.holiday {
+    border-bottom: 1px solid gray;
+    padding-bottom: 40px;
+
+}
+
+.carinfo {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.car33 {
+    width: 33%;
+}
+
+.leftrow1 {
+    flex-direction: column;
+}
+
+.holiday1 {
+    border-bottom: 1px solid gray;
+    padding-bottom: 25px;
+}
+
+.trd,
+.trending {
+    display: flex;
+}
+
+.imga {
+    width: 30px;
+}
+
+.img15 {
+    width: 25%;
+}
+
+.tex85 {
+    width: 75%;
+    padding: 20px 10px;
+}
+
+.trending p {
+    font-size: smaller;
+    color: gray;
+    padding: 0;
+}
+
+.trending h4 {
+    padding: 0;
+    margin: 0;
+}
+
+.trending {
+    border-bottom: 0.5px solid gray;
+}
+
+.trd {
+    padding: 15px 0px;
+    font-size: smaller;
+}
+
+.cars2 {
+    width: 285px;
+
+}
+
+.width50 {
+    display: flex;
+}
+
+.i30 {
+    width: 30%;
+    display: flex;
+}
+
+.t70 {
+    width: 70%;
+    margin: 10px 10px;
+}
+
+.line {
+    width: 25px;
+    float: left;
+    display: flex;
+}
+
+.gbp {
+    padding-bottom: 44px;
+}
+
+.gbg {
+    padding-bottom: 26px;
+}
+
+.leftrow p,
+figcaption p {
+    color: grey;
+}
+
+.left-nav span:hover {
+    border-bottom: 2px solid #00095B;
+
+}
+
+.no {
+    padding-bottom: 10px;
+    font-size: x-large;
+}
+
+figure {
+    margin: 10px;
+    box-shadow: 0px 4px 9px -2px darkgrey;
+}
+
+.column701 {
+    padding: 10px;
+    margin: 15px;
+    box-shadow: 0px 4px 9px -2px darkgrey;
+}
+
+.leftrow .holiday {
+    border-bottom: 1px solid gray;
+    padding-bottom: 63px;
+}
+
+figcaption {
+    padding: 10px 10px 0px;
+
+}
+
+figcaption p {
+    border-bottom: 1px solid gray;
+    padding-bottom: 20px;
+    width: 87%;
+}
+
+.column301 {
+    text-align: center;
+}
+
+.select {
+    width: 170px;
+    height: 30px;
+}
+
+.end {
+    padding: 10px;
+    background-color: #F2F2F2;
+    text-align: center;
+    margin-right: 10px;
+    margin-bottom: 40px;
+}
+
+.class {
+    padding-bottom: 50px;
+}
+
+.limge {
+    height: 290px;
+    width: 275px;
+}
+
+.fimg {
+    height: 126px;
+}
+
+.gimg {
+    height: 127px;
+}
+
+.learn {
+    border-radius: 100px;
+    width: 190px;
+}
+
+.bronco {
+    height: 232px;
+    width: 100%;
+}
+
+
+
+.rpic {
+    width: 21px;
+}
+
+.block-heading {
+    margin: 0 10px;
+    padding: 0;
+    border-bottom: 1px solid gray;
+    padding-bottom: 15px;
+    color: #00095B;
+}
+
+.block-list {
+    margin: 10px 10px;
+    padding: 0;
+}
+
+.block-item {
+    padding: 10px 0;
+    border-bottom: 1px solid gray;
+    display: flex;
+
+}
+
+.block-title {
+    width: 100%;
+    color: #00095B;
+}
+
+.main-right h3 {
+    margin: 0;
+    font-size: medium;
+}
+
+.icon {
+    width: 25px;
+    padding-right: 10px;
+}
+
+.downimg {
+    width: 35px;
+}
+
+.block-title span {
+    color: gray;
+}
+
+.info-tex {
+    padding: 10px 20px 0px 20px;
+}
+
+.arrows {
+    background-color: grey;
+    color: white;
+    width: 20px;
+    height: 28px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: xx-large;
+}
+
+.r-arrows {
+    background-color: #00095B;
+    color: white;
+    width: 20px;
+    height: 28px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: xx-large;
+}
+
+.like1 {
+    display: flex;
+    padding-bottom: 10px;
+    font-size: initial;
+    font-weight: bold;
+}
+
+.lik-fig {
+    padding-right: 20px;
+}
+
+.play {
+    float: right;
+    margin-top: 112px;
+    margin-right: 32px;
+    width: 58px;
+}
+
+.breaking {
+    padding-bottom: 10px;
+}
+
+.trending h4,
+p {
+    color: black;
+}
+
+.ano p,
+.movement p {
+    color: white;
+}
+
+.carinfo p {
+    color: #00095B;
+}
+
+.rdown p {
+    color: white;
+}
+
+@font-face {
+    font-family: Roboto-Regular;
+    src: url(font/Roboto-Regular.ttf);
+}
+
+.block-img {
+    padding-right: 10px;
+}
+
+.date-car-info {
+    color: gray;
+}
+
+i {
+    color: #00095B;
+}
+
+.ano1 i,
+.msg i {
+    color: white;
+}
+
+.social-links {
+    font-size: larger;
+}
+
+.chat {
+    width: 160px;
+}
+
+.footer li i {
+    color: gray;
+
+}

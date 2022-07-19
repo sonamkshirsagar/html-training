@@ -1,0 +1,47 @@
+.header {
+    background-color: beige;
+    height: 120px;
+    overflow: hidden;
+}
+
+.nav {
+    background-color: brown;
+    padding:20px;
+    height: 120px;
+    overflow: hidden;
+}
+
+.main {
+    background-color: beige;
+    height: 400px;
+    overflow: hidden;
+}
+
+.footer {
+    background-color: rgb(28, 28, 48) ;
+    padding:20px;
+    overflow: hidden;
+
+    
+}
+
+.left-container {
+    width: 33.33%;
+    background-color: blueviolet;
+    height: 400px;
+    float: left;
+}
+
+.middle-container {
+    width: 33.33%;
+    background-color: rgb(163, 134, 190);
+    height: 400px;
+    float: left;
+}
+
+.right-container {
+    width: 33.33%;
+    background-color: rgb(123, 109, 136);
+    height: 400px;
+    float: left;
+}

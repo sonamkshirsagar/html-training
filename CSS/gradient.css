@@ -1,0 +1,27 @@
+.body{
+    background-color: beige;
+}
+.linear{
+    background: linear-gradient( red,yellowgreen,blue);
+width: 300px;
+height: 400px;
+
+
+}
+.radial{
+
+    background: radial-gradient( pink, purple, tomato);
+    width: 300px;
+height: 400px;
+
+}
+.conic{
+    background: conic-gradient( black,grey);
+    width: 300px;
+height: 400px;
+
+
+}
+.div{
+    display: flex;
+}

@@ -5,6 +5,8 @@
 
 .body {
     background-color: gray;
+    font-family: EduSABeginner-Bold;
+    src: url(../fonts/EduSABeginner-VariableFont_wght.ttf)
 }
 
 .nav {

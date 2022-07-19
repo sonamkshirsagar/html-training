@@ -1,0 +1,411 @@
+.body {
+
+    font-family: monospace;
+    font-size: 15px;
+    font-weight: 700;
+    font-family: EduSABeginner-Bold;
+    src: url(../fonts/EduSABeginner-VariableFont_wght.ttf)
+}
+.header {
+    overflow: hidden;
+    box-sizing: border-box;
+    background-color: white;
+    
+}
+.first{
+    background-color: rgb(233, 229, 229);
+    
+}
+.second{
+    background-color: white;
+}
+.top-header {
+    padding: 10px;
+    overflow: hidden;
+    max-width: 1260px;
+    
+}
+.header-inner {
+    max-width: 1260px;
+
+}
+.left-text {
+    float: left;
+    box-sizing: border-box;
+}
+.right-text {
+
+    float: right;
+    box-sizing: border-box;
+}
+.right-top-list {
+
+    margin: 0;
+    padding-right: 25px;
+}
+.right-top-item {
+    display: inline-block;
+    padding: 0 14px;
+    padding-bottom: 0;
+
+}
+.bottom-header {
+    display: flex;
+    margin: 0 auto;
+    max-width: 1240px;
+}
+
+.ford-logo {
+    width: 160px;
+    margin-top: 5px;
+
+}
+.earth {
+    vertical-align: middle;
+    text-align: left;
+}
+.navlist {
+    margin: 0;
+    margin-right: 0;
+    margin-top: 10px;
+}
+.navitem {
+    display: inline-block;
+    overflow: hidden;
+    padding: 0 10px;
+
+}
+.nav {
+    background-color: rgb(236, 83, 28);
+    padding: 20px;
+    color: white;
+}
+.cross {
+    float: right;
+    color: white;
+    
+}
+.main {
+    width: 1240px;
+    margin: 0 auto;
+}
+.main-content {
+    display: flex;
+    padding: 0 10px;
+}
+.main-left {
+    width: 75%;
+    color: #00095b;
+    background-color: white;
+
+    padding-top: 45px;
+}
+.nav-left {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 0px;
+}
+.left-side-main {
+    display: flex;
+    margin: 0 10px;
+    padding-bottom: 45px;
+}
+.image-main {
+    width: 30%;
+}
+.image-main-text {
+    width: 70%;
+
+    box-shadow: 3px 14px 18px -6px darkgrey;
+    padding: 10px;
+}
+.upcoming-holiday {
+    border-bottom: 1px solid gray;
+    padding-bottom: 40px;
+
+}
+.carinfo {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.car33 {
+    width: 33%;
+}
+
+.leftrow1 {
+    flex-direction: column;
+}
+.holiday1 {
+    border-bottom: 1px solid gray;
+    padding-bottom: 25px;
+}
+.column701 {
+    padding: 10px;
+    margin: 15px;
+    box-shadow: 0px 4px 9px -2px darkgrey;
+}
+.column301 {
+    text-align: center;
+}
+.like {
+    padding-top: 6px;
+    justify-content: space-between;
+    display: flex;
+    margin-right: 50px;
+    margin-left: 0px;
+}
+.trending {
+    border-bottom: 0.5px solid gray;
+}
+.image {
+    height: 290px;
+    width: 275px;
+}
+.announcement {
+    padding-bottom: 10px;
+    font-size: x-large;
+}
+.announ {
+    display: flex;
+}
+.width {
+    width: 50%;
+    background-color: #00095B;
+    color: white;
+    margin-right: 15px;
+}
+.imga {
+    width: 30px;
+}
+.abc {
+    width: 30%;
+    display: flex;
+}
+.xyz {
+    width: 70%;
+    margin: 10px 10px;
+}
+.img15 {
+    width: 25%;
+}
+
+.tex85 {
+    width: 75%;
+    padding: 20px 10px;
+}
+.leftrow {
+    display: flex;
+    margin: 0 10px;
+    padding-bottom: 45px;
+}
+.holiday1 {
+    border-bottom: 1px solid gray;
+    padding-bottom: 25px;
+}
+.class {
+    padding-bottom: 50px;
+}
+.trd,
+.trending {
+    display: flex;
+}
+.announ1 {
+    display: flex;
+    justify-content: center;
+    padding: 20px 0px;
+    color: gray;
+    font-size: larger;
+}
+.width1 {
+    padding: 5px;
+}
+.arrows {
+    background-color: grey;
+    color: white;
+    width: 10px;
+    height: 20px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: large;
+}
+
+.r-arrows {
+    background-color: #00095B;
+    color: white;
+    width: 10px;
+    height: 20px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: large;
+}
+.news {
+    display: flex;
+    justify-content: space-between;
+    padding: 12px 13px 0px 6px;
+}
+.select {
+    width: 170px;
+    height: 30px;
+}
+.play {
+    float: right;
+    margin-top: 112px;
+    margin-right: 32px;
+    width: 58px;
+}
+.m50 {
+    width: 100%;
+    background: none;
+    margin: 21px;
+}
+.column30 {
+    width: 30%;
+}
+
+.column70 {
+    width: 70%;
+
+    box-shadow: 3px 14px 18px -6px darkgrey;
+    padding: 10px;
+}
+
+.column70 p,
+h1 {
+    margin: 0;
+}
+.main-right {
+    width: 25%;
+    background-color: #F2F2F2;
+    padding-top: 45px;
+}
+.right-lists {
+    border-bottom: 1px solid gray;
+    color: #00095B;
+    width: 86%;
+    margin: 0 auto;
+    padding: 16px 12px;
+}
+.block-heading {
+    margin: 0 10px;
+    padding: 0;
+    border-bottom: 1px solid gray;
+    padding-bottom: 15px;
+    color: #00095B;
+}
+
+.block-list {
+    margin: 10px 10px;
+    padding: 0;
+}
+
+.block-item {
+    padding: 10px 0;
+    border-bottom: 1px solid gray;
+    display: flex;
+
+}
+
+.block-title {
+    width: 100%;
+    color: #00095B;
+}
+
+.close {
+    width: 30px;
+    float: right;
+    margin-bottom: 16px;
+
+}
+.lower {
+    max-width: 1240px;
+    margin: 0 auto;
+    padding-bottom: 15px;
+    overflow: hidden;
+    color: white;
+}
+.main-footer-content {
+    background-color: #F2F2F2;
+    width: 100%;
+    overflow: hidden;
+}
+.right-down {
+    background-color: #00095b;
+    color: white;
+    width: 80%;
+    padding: 10px;
+    margin: 0 auto;
+    text-align: center;
+}
+.customize {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.footer-in {
+    background-color: #00095B;
+    width: 100%;
+    overflow: hidden;
+}
+.last {
+    overflow: hidden;
+    margin-bottom: -10px;
+    padding: 0px;
+}
+.last-block {
+    float: left;
+    padding-right: 50px;
+}
+.chat {
+    width: 160px;
+}
+.link {
+    margin-right: 10px;
+    text-decoration: none;
+}
+.upper {
+    max-width: 1240px;
+    margin: 0 auto;
+}
+.column2,
+.column3 {
+    margin-top: 60px;
+}
+.social-links {
+    margin: 20px 0px;
+}
+.column {
+    overflow: hidden;
+    background-color: #F2F2F2;
+    width: 25%;
+    float: left;
+    color: #00095B;
+    padding: 25px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ul {
+    list-style-type: none;
+    padding: 0px;
+}
+
+li {
+    margin-bottom: 12px;
+}

@@ -1,0 +1,48 @@
+.main {
+    color:#00095B;
+    font-family: 'Times New Roman', Times, serif;
+    overflow: hidden;
+}
+.footer {
+    background-color:rgb(13, 13, 44);
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    
+    
+}
+.middle-content{
+    float: left;
+    width: 25%;
+}
+.left-content{
+float:left;
+width:25%;
+
+}
+.right-content{
+float: left;
+width: 25%;
+
+
+}
+.last-content{
+    float:left;
+    width: 25%;
+}
+.column {
+    
+    border: 2px none black;
+    padding: 5px 10px;
+
+}
+.left{
+    float:left;
+}
+.key{
+    font-weight: bolder;
+    font-size: large;
+}
+.footer-{
+float: right;
+
+}

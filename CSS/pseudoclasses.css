@@ -1,0 +1,23 @@
+.colors-name{
+    list-style-type: none;
+}
+
+.li {border-bottom: 1px solid; }
+
+li:nth-child(4) {
+    font-size: 50px;
+    color: red;
+}
+
+li:last-child {
+    border: none;
+}
+li:nth-child(6) {
+    font-size: 50px;
+    color: greenyellow;
+}
+
+li:nth-child(1) {
+    font-size: 50px;
+    color: gray;
+}
