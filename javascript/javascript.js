@@ -1,0 +1,10 @@
+var number1 = 5;
+var number2 = 5;
+var sum = number1 + number2;
+var sub = number1 - number2;
+var divide = number1 / number2;
+var multiplication = number1 * number2;
+document.write('addition', sum, '</br>');
+document.write('substraction', sub, '</br>');
+document.write('divide', divide, '</br>');
+document.write('multiplication', multiplication, '</br>');

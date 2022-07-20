@@ -1,0 +1,58 @@
+.header{
+    background-color: lightgray;
+    padding: 20px;
+}
+
+
+
+.box {
+
+    border: solid;
+    display: inline-block;
+    box-shadow: 5px 5px black;
+    text-align: center;
+    border: none;
+    border-radius: 10px;
+    margin-left: 20px;
+    background-color: white;
+    padding: 30px;
+    
+
+
+}
+
+.bodyy {
+    background-color: beige;
+}
+
+.second {
+    border: solid;
+    display: inline-block;
+    box-shadow: 5px 5px rgb(44, 40, 40);
+    text-align: center;
+    border: none;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin: 20px;
+    padding: 20px;
+}
+
+.red {
+    background-color: red;
+    color: white;
+}
+
+.orange {
+    background-color: orange;
+    color: white;
+}
+
+.green {
+    background-color: limegreen;
+    color: white;
+}
+
+.brown {
+    background-color: brown;
+    color: white;
+}
