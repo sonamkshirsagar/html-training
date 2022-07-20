@@ -1,27 +1,35 @@
 .header {
     background-color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif
+    color: grey;
+    overflow: hidden;
+    padding: 10px;
+
     
-    padding: 0px;
-    
-    overflow:hidden;
-    margin: 0px;
-}
-.header-img{float: left;
 
 }
-.header-imgg{
-float: right;
+.header-{
+    float:right;
+
 }
 
 .nav {
     background-color: white;
-    padding: 0px;
-    margin: 0px;
+    padding: 10px;
+    color: #00095B;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bolder;
+    margin-right: 40px;
+
+
 }
 
 .main {
     background-color: #da7029;
-    overflow: hidden;
-    padding: 0px;
-    margin: 0px;
+    padding: 10px;
+    color: white;
+}
+.x-{
+    float: right;
+    
 }
