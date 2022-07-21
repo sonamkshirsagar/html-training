@@ -1,0 +1,75 @@
+.body{
+    background-color: wheat;
+    margin: 0px auto;
+
+}
+.main{
+    display: flex;
+    max-width: 700px;
+    margin-left: 300px;
+    border : 1px solid gray;
+    padding: 30px;
+    background-color: white;
+    
+}
+.left-containt{
+    width: 60%;
+    background-color: white;
+}
+.right-containt{
+    width: 40%;
+    background-color: white;
+}
+.username{
+    
+    width: 86%;
+    margin-left: 6px;
+
+}
+.name{
+    padding: 5px;
+
+}
+.lenght{
+    margin: 0px 5px;
+}
+.color{
+    color:gray;
+    
+}
+.check{
+    margin-right: 10px;
+    margin-bottom: 60px;
+}
+.button{
+    float: right;
+    background-color: navy;
+    color: white;
+    padding: 5px 10px;
+    margin-right: 88px;
+}
+.link{
+    text-decoration: none;
+}
+.first{
+    display: flex;
+    width: 100%;
+    
+}
+.bottom{
+    margin-bottom:60px ;
+}
+.image{
+    margin-top: 70px ;
+}
+.rdown {
+    
+    color: gray;
+    width: 80%;
+    padding: 10px;
+    margin: 0 auto;
+    text-align: center;
+}
+.error{
+    color:red;
+}

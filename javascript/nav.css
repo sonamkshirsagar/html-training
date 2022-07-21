@@ -1,0 +1,29 @@
+.body{
+    margin: 0;
+}
+.nav{
+    
+    background-color: rgb(3, 3, 58);
+    padding: 0px;
+    color:white;
+    text-align: center;
+}
+.nav-list{
+    margin:0;
+    padding: 0;
+}
+.list{
+    display: inline-block;
+    padding: 0;
+}
+.nav-item{
+    padding: 0px;
+    margin: 0 10px;
+    display: inline-block;
+}
+.sub-nav{
+    position: absolute;
+    background-color: beige;
+    top: 43px;
+    color:black;
+}
