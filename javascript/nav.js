@@ -1,7 +1,9 @@
 function subnavbar(sonam) {
+    alert('hjskdik')
+
     switch (sonam) {
         case 'bikes':
-            if (document.getElementById(sonam).style.display = 'none') {
+            if (document.getElementById(sonam).style.display == 'none') {
                 document.getElementById(sonam).style.display = 'block';
             }
             else {
@@ -10,28 +12,81 @@ function subnavbar(sonam) {
 
             break;
         case 'scooters':
-            document.getElementById(sonam).style.display = 'block';
+            if (document.getElementById(sonam).style.display == 'none') {
+                document.getElementById(sonam).style.display = 'block';
+            }
+            else {
+                document.getElementById(sonam).style.display = 'none';
+            }
             break;
+
+
         case 'electriczone':
-            document.getElementById(sonam).style.display = 'block';
+            if (document.getElementById(sonam).style.display == 'none') {
+                document.getElementById(sonam).style.display = 'block';
+            }
+            else {
+                document.getElementById(sonam).style.display = 'none';
+            }
+            
             break;
+
+
+
         case 'bikefinance':
-            document.getElementById(sonam).style.display = 'block';
+
+            if (document.getElementById(sonam).style.display == 'none') {
+                document.getElementById(sonam).style.display = 'block';
+            }
+            else {
+                document.getElementById(sonam).style.display = 'none';
+            }
             break;
+
         case 'usedbikes':
-            document.getElementById(sonam).style.display = 'block';
+            if (document.getElementById(sonam).style.display == 'none') {
+                document.getElementById(sonam).style.display = 'block';
+            }
+            else {
+                document.getElementById(sonam).style.display = 'none';
+            }
             break;
+
+
         case 'salebikes':
-            document.getElementById(sonam).style.display = 'block';
+            if (document.getElementById(sonam).style.display == 'none') {
+                document.getElementById(sonam).style.display = 'block';
+            }
+            else {
+                document.getElementById(sonam).style.display = 'none';
+            }
             break;
+
         case 'compare':
-            document.getElementById(sonam).style.display = 'block';
+            if (document.getElementById(sonam).style.display == 'none') {
+                document.getElementById(sonam).style.display = 'block';
+            }
+            else {
+                document.getElementById(sonam).style.display = 'none';
+            }
             break;
+
         case 'newsandreviews':
-            document.getElementById(sonam).style.display = 'block';
+            if (document.getElementById(sonam).style.display == 'none') {
+                document.getElementById(sonam).style.display = 'block';
+            }
+            else {
+                document.getElementById(sonam).style.display = 'none';
+            }
             break;
+
         case 'more':
-            document.getElementById(sonam).style.display = 'block';
+            if (document.getElementById(sonam).style.display == 'none') {
+                document.getElementById(sonam).style.display = 'block';
+            }
+            else {
+                document.getElementById(sonam).style.display = 'none';
+            }
             break;
 
     }
