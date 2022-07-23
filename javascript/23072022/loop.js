@@ -6,9 +6,9 @@ list +=(i*7) + '<br/>'
 
 document.getElementById('list').innerHTML = list;
 
-var list = '';
+var sonam = '';
 for (var i = 1; i <=10; i++){
 list +=(i*8) + '<br/>'
 }
 
-document.getElementById('list').innerHTML = list;
+document.getElementById('sonam').innerHTML = sonam;

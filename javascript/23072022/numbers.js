@@ -1,5 +1,7 @@
-var x = 20;
-do{
-    x++
+var a= 5;
+var sonam = '';
+while( a <= 20) {
+    sonam += a + '<br/>';
+    a++;
 }
-while(x <= 15);
+document.getElementById('sonam').innerHTML = sonam;
