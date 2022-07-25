@@ -82,7 +82,7 @@
 }
 .second-block{
     height: 300px;
-    background-color: aquamarine;
+    
     display: flex;
 }
 .image{
@@ -90,10 +90,10 @@
     
 }
 .left-side{
-    width:30%;
+    
 }
 .right-side{
-    width:70%;
+float:right
     text-align:left;
 }
 .block-2{
