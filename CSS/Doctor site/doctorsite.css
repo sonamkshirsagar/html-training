@@ -1,122 +1,146 @@
-.body{
+.body {
     background-color: #f4f5f9;
     max-width: 1140px;
     margin-left: 100px;
-    font-family:Arial, Helvetica, sans-serif ;
-    
+    font-family: Arial, Helvetica, sans-serif;
+
 }
-.header{
+
+.header {
     overflow: hidden;
 
 }
-.top-header{
+
+.top-header {
     background-color: #015172;
-    
+
     overflow: hidden;
 
-    
+
 }
-.inner-header{
+
+.inner-header {
     background-color: #015172;
     max-width: 1240px;
 }
-.header-top-left{
+
+.header-top-left {
     float: left;
 }
-.header-top-right{
+
+.header-top-right {
     float: right;
     padding: 0 10px;
 }
 
-.header-text{
+.header-text {
 
     color: white;
 }
 
-.list{
-    margin:0px 10px;
+.list {
+    margin: 0px 10px;
     display: inline-block;
     padding-bottom: 0;
 }
-.bottom-header{
+
+.bottom-header {
     background-color: white;
 }
-.nav{
+
+.nav {
     background-color: white;
     padding: 1px;
     text-align: center;
     margin-top: 2px;
     color: #007fb9;
     font-weight: bolder;
-    
+
 }
-.img{
-    height:400px;
+
+.img {
+    height: 400px;
 }
-.block{
-    height:400px;
+
+.block {
+    height: 400px;
     background-color: white;
-    
+
 }
-.inner-block{
+
+.inner-block {
     padding: 50px;
 }
-.heading{
+
+.heading {
     font-weight: bolder;
     text-align: center;
 }
-.heading-{
+
+.heading- {
     text-align: center;
     padding: 5px;
 }
-.caption{
+
+.caption {
     display: flex;
 }
-.caption-img{
-    padding:40px 60px;
+
+.caption-img {
+    padding: 40px 60px;
 }
-.color{
+
+.color {
     color: #007fb9;
     font-weight: bolder;
-    
+
 }
-.second-block{
+
+.second-block {
     height: 300px;
-    
+
     display: flex;
 }
-.image{
-    padding: 100px;
-    
+.text{
+    margin-top: 60px;
 }
-.left-side{
-    
+
+.image {
+    margin-left: 80px;
+    margin-top: 50px;
+
 }
-.right-side{
-float:right
-    text-align:left;
+
+.left-side {}
+
+.right-side {
+    float: right;
+    text-align: left;
 }
-.block-2{
+
+.block-2 {
     display: flex;
-    
+
 }
-.block-3{
+
+.block-3 {
     background-color: white;
 }
-.flex{
+
+.flex {
     display: flex;
 }
-.space{
+
+.space {
     padding: 0 100px;
 }
-.white{
+
+.white {
     background-color: white;
 }
 
 
-ul{
+ul {
     list-style-type: none;
     padding: 0px;
 }
-
-    
