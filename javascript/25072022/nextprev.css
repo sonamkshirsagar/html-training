@@ -1,0 +1,14 @@
+.slider{
+    margin: 50px auto;
+    width: 30%;
+    float: left;
+}
+.img-box img{
+    width: 100%;
+}
+.dots span {
+    border: 1px solid;
+    margin:5px 5px;
+    padding: 0 5px;
+    display: inline-block;
+}

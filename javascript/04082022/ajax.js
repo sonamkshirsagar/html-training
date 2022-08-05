@@ -1,0 +1,9 @@
+$(document).ready(function(){
+    $('button').click(function(){
+        $.ajax({url:'./test.txt',
+    success:function(result){
+        $('.showblock').html(result);
+    }
+})
+    })
+})

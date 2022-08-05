@@ -73,3 +73,37 @@
 .error{
     color:red;
 }
+.bottom-box{
+    margin: 0px auto;
+    width: 750px;
+    padding: 20px 0px;
+}
+.right-bottom{
+    width: 50%;
+    float: right;
+}
+.left-bottom{
+    width: 50%;
+    float: left;
+}
+.links{
+    float: right;
+    margin:0px 0px 0px 20px ;
+    color:gray;
+    font-size: 14px;
+}
+select , option{
+    font-size: 14px;
+    border: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+.red{
+    color: red;
+    font-size: 12px;
+}
+.black{
+    font: bold;
+    color: black;
+    font-size: 20px;
+    padding: 0px 0px 25px 0px;
+}

@@ -1,55 +1,64 @@
 .body {
 
-    font-family: monospace;
     font-size: 15px;
     font-weight: 700;
-    font-family: EduSABeginner-Bold;
+    font-family: Arial, Helvetica, sans-serif;
     src: url(../fonts/EduSABeginner-VariableFont_wght.ttf)
 }
+
 .header {
     overflow: hidden;
     box-sizing: border-box;
     background-color: white;
-    
+
 }
-.first{
+
+.first {
     background-color: rgb(233, 229, 229);
-    
+
 }
-.second{
+
+.second {
     background-color: white;
 }
+
 .top-header {
     padding: 10px;
     overflow: hidden;
     max-width: 100%;
     margin: 0px 20px 0px 65px;
-    
+    color: rgb(85, 84, 84)
 }
+
 .header-inner {
     max-width: 1260px;
 
 }
+
 .left-text {
     float: left;
     box-sizing: border-box;
 }
+
 .right-text {
 
     float: right;
     box-sizing: border-box;
 }
+
 .right-top-list {
 
     margin: 0;
-    padding-right: 25px;
+    padding-right: 45px;
 }
+
 .right-top-item {
     display: inline-block;
     padding: 0 14px;
     padding-bottom: 0;
 
 }
+
 .bottom-header {
     display: flex;
     margin: 0 auto;
@@ -61,158 +70,273 @@
     margin-top: 5px;
 
 }
+
 .earth {
     vertical-align: middle;
     text-align: left;
 }
+
 .navlist {
     margin: 0;
     margin-right: 0;
     margin-top: 10px;
 }
+
 .navitem {
     display: inline-block;
     overflow: hidden;
     padding: 0 10px;
+    color:#00095B
 
 }
+
 .nav {
     background-color: rgb(236, 83, 28);
     padding: 20px;
     color: white;
-    box-shadow: 0px 0px 10px 0px black;
+    box-shadow: 0px 1px 3px 0px black;
 }
+
 .cross {
     float: right;
     color: white;
-    
+    position: absolute;
+    right: 2%;
+    top: 38%;
+
 }
+.icon{
+    color:white;
+}
+.angle{
+    margin-left: 15px;
+}
+.up{
+    float: right;
+    font-size: 40px;
+}
+.button1{
+    padding:10px;
+    border-radius: 50px;
+    width:100px;
+    color: #00095b;
+    font-weight: bold;
+    margin-top: 10px;
+    border:none;
+}
+
+.grey {
+    color: grey;
+}
+.button{
+    background-color: #00095b;
+    color: white;
+    padding: 8px;
+    border-radius: 50px;
+    width: 123px;
+}
+
 .main {
     width: 1240px;
     margin: 0 auto;
     padding-top: 10px;
 }
+
 .main-content {
     display: flex;
     padding: 0 10px;
 }
+
 .main-left {
     width: 75%;
     color: #00095b;
     background-color: white;
-
-    padding-top: 45px;
+    padding-right: 20px;
+    
 }
+
 .nav-left {
     display: flex;
-    justify-content: space-around;
-    padding: 10px 0px;
+
+    padding: 30px 0px;
 }
+
+.space {
+    font-size: 18px;
+    margin-left: 20px;
+    padding: 5px 0px;
+}
+
+.space:hover {
+    border-bottom: 2px solid #00095B;
+}
+
+
 .left-side-main {
     display: flex;
-    margin: 0 10px;
+    
     padding-bottom: 45px;
 }
+
 .image-main {
     width: 30%;
 }
+
 .image-main-text {
     width: 70%;
 
     box-shadow: 3px 14px 18px -6px darkgrey;
     padding: 10px;
 }
+
 .upcoming-holiday {
-    border-bottom: 1px solid gray;
-    padding-bottom: 40px;
+
+    padding-left: 25px;
+    padding-bottom: 45px;
 
 }
+.i{
+    margin-right: 8px;
+    font-size: large;
+}
+
 .carinfo {
     display: flex;
     flex-wrap: wrap;
+    padding-bottom: 40px;
 }
 
 .car33 {
-    width: 33%;
+    width: 32%;
+    margin-right: 18px;
 }
+
 
 .leftrow1 {
     flex-direction: column;
 }
+
 .holiday1 {
     border-bottom: 1px solid gray;
     padding-bottom: 25px;
 }
+.like2{
+    justify-content: space-around;
+    display: flex;
+    padding: 10px 0px;
+}
+
 .column701 {
-    padding: 10px;
-    margin: 15px;
+    
     box-shadow: 0px 4px 9px -2px darkgrey;
 }
+
 .column301 {
     text-align: center;
 }
+
 .like {
-    padding-top: 6px;
+    padding-top: 17px;
     justify-content: space-between;
     display: flex;
     margin-right: 50px;
-    margin-left: 0px;
+    margin-left: 27px;
+    margin-top: 20px;
+    border-top: 1px solid gray;
 }
+
+.lik-fig {
+    margin-right: 20px;
+}
+
+.like1 {
+
+    border-top: 1px solid gray;
+    position: relative;
+    padding: 15px 0px;
+    margin-right: 113px;
+}
+
+.shadow {
+    box-shadow: 0px 16px 13px -20px black;
+    margin: 0px;
+    position: relative;
+}
+
+
+
 .trending {
     border-bottom: 0.5px solid gray;
 }
+
 .image {
     height: 290px;
-    width: 275px;
+    width: 260px;
 }
+
 .announcement {
     padding-bottom: 10px;
     font-size: x-large;
 }
+
 .announ {
     display: flex;
+    justify-content: space-between;
 }
+
 .width {
-    width: 50%;
+    width: 49%;
     background-color: #00095B;
     color: white;
-    margin-right: 15px;
+    display: flex;
 }
+
 .imga {
     width: 30px;
 }
+
 .abc {
     width: 30%;
     display: flex;
 }
+
 .xyz {
     width: 70%;
     margin: 10px 10px;
 }
+
 .img15 {
     width: 25%;
 }
 
 .tex85 {
     width: 75%;
-    padding: 20px 10px;
+    padding: 10px 15px;
 }
+
 .leftrow {
     display: flex;
-    margin: 0 10px;
-    padding-bottom: 45px;
-}
-.holiday1 {
-    border-bottom: 1px solid gray;
-    padding-bottom: 25px;
-}
-.class {
+    
     padding-bottom: 50px;
 }
-.trd,
+
+.holiday1 {
+    border-bottom: 1px solid gray;
+    padding: 12px;
+    font-size: 20px;
+}
+.trd{
+    display: flex;
+    padding: 30px 0px;
+}
+
+
+
 .trending {
     display: flex;
+    
 }
+
 .announ1 {
     display: flex;
     justify-content: center;
@@ -220,9 +344,11 @@
     color: gray;
     font-size: larger;
 }
+
 .width1 {
     padding: 5px;
 }
+
 .arrows {
     background-color: grey;
     color: white;
@@ -242,26 +368,36 @@
     border-radius: 10px;
     font-size: large;
 }
+
 .news {
     display: flex;
     justify-content: space-between;
-    padding: 12px 13px 0px 6px;
+    padding: 12px 0px 0px 0px;
 }
+
 .select {
-    width: 170px;
+    width: 200px;
     height: 30px;
 }
+
 .play {
+
     float: right;
     margin-top: 112px;
     margin-right: 32px;
-    width: 58px;
+    width: 62px;
+    bottom: 18px;
+    position: absolute;
+    right: 2px;
+
 }
+
 .m50 {
     width: 100%;
     background: none;
-    margin: 21px;
+    margin-bottom: 30px;
 }
+
 .column30 {
     width: 30%;
 }
@@ -277,18 +413,22 @@
 h1 {
     margin: 0;
 }
+
 .main-right {
     width: 25%;
     background-color: #F2F2F2;
     padding-top: 45px;
+    margin-top: -7px;
+
 }
+
 .right-lists {
     border-bottom: 1px solid gray;
     color: #00095B;
-    width: 86%;
-    margin: 0 auto;
-    padding: 16px 12px;
+    width: 90%;
+    margin: 3px 10px;
 }
+
 .block-heading {
     margin: 0 10px;
     padding: 0;
@@ -320,6 +460,7 @@ h1 {
     margin-bottom: 16px;
 
 }
+
 .lower {
     max-width: 1240px;
     margin: 0 auto;
@@ -327,11 +468,13 @@ h1 {
     overflow: hidden;
     color: white;
 }
+
 .main-footer-content {
     background-color: #F2F2F2;
     width: 100%;
     overflow: hidden;
 }
+
 .right-down {
     background-color: #00095b;
     color: white;
@@ -340,6 +483,17 @@ h1 {
     margin: 0 auto;
     text-align: center;
 }
+
+.news-breaking {
+    justify-content: space-between;
+    display: flex;
+    margin-bottom: 15px;
+}
+
+.top-space {
+    margin-top: 8px;
+}
+
 .customize {
     width: 60%;
     margin: 0 auto;
@@ -350,33 +504,44 @@ h1 {
     width: 100%;
     overflow: hidden;
 }
+
 .last {
     overflow: hidden;
     margin-bottom: -10px;
-    padding: 0px;
+    padding: 6px;
 }
+.icon{
+    margin-right: 10px;
+}
+
 .last-block {
     float: left;
     padding-right: 50px;
 }
+
 .chat {
     width: 160px;
 }
+
 .link {
     margin-right: 10px;
     text-decoration: none;
 }
+
 .upper {
     max-width: 1240px;
     margin: 0 auto;
 }
+
 .column2,
 .column3 {
     margin-top: 60px;
 }
+
 .social-links {
     margin: 20px 0px;
 }
+
 .column {
     overflow: hidden;
     background-color: #F2F2F2;
@@ -385,7 +550,10 @@ h1 {
     color: #00095B;
     padding: 25px 0;
 }
-
+.end{
+    text-align: center;
+    padding: 15px;
+}
 
 
 
